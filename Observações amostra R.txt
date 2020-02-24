@@ -1,0 +1,9 @@
+Formula para calcular a proporção do extratro quando o meio nao tem a mesma distribuição de elementos.
+Com essa formula, é possivel obter a mesma proporção de amostras.
+
+Resultado = Numero de elementos no extrato / Tamanho total da população (Meio) * Tamanho desejado da amostra
+
+
+Metodo srswor é o metodo padrão para a função strata. Esse metodo serve para gerar uma amostra aleatória sem reposição.
+
+help("strata") = Mostra todos os dados relacionados a função.
